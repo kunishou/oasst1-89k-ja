@@ -1,7 +1,7 @@
 import json
 import glob
 
-path_list = glob.glob("*.json")
+path_list = glob.glob("oasst1_ja_89k/*.json")
 
 results = []
 
