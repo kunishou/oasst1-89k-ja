@@ -1,6 +1,8 @@
 ![oasst1](image/oasst1_repo.png)
 
 **Update:**  
+- 2023/11/12  
+oasst1-89k-jaをチャット形式に変換した[oasst1-chat-44k-ja](https://huggingface.co/datasets/kunishou/oasst1-chat-44k-ja)を公開しました。  
 - 2023/10/21  
 自動翻訳によるコード関連データの翻訳誤り2000箇所程度を手動で修正しました。  
 
